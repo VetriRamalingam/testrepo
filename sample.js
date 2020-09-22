@@ -1,5 +1,6 @@
 var ele = document.getElementById('x-news');
 var table = `
+<div class="myBg">Demo</div>
 <table>
   <tr>
     <th>Company</th>
